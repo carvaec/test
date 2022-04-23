@@ -2,4 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Estos textos ahora son nuevos en GitHub
+## Estos textos local nuevos Esteban
